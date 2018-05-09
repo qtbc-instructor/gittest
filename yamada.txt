@@ -1,4 +1,6 @@
 
 hello!
 
+bye!
+
 witten by yamada
