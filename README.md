@@ -1,1 +1,2 @@
 nodananoda
+fujita writen
